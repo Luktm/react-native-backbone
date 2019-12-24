@@ -8,14 +8,22 @@ target 'MobileInspectionApp' do
 
   # Pods for MobileInspectionApp
    pod 'Firebase'
+   pod 'Firebase/Database'
    pod 'Firebase/Analytics'
    pod 'Firebase/Auth'
    pod 'Firebase/Firestore'
    pod 'Firebase/Messaging'
+   pod 'Firebase/Storage'
 
   target 'MobileInspectionAppTests' do
     inherit! :search_paths
-   
+    pod 'Firebase'
+    pod 'Firebase/Database'
+    pod 'Firebase/Analytics'
+    pod 'Firebase/Auth'
+    pod 'Firebase/Firestore'
+    pod 'Firebase/Messaging'
+    pod 'Firebase/Storage'
     # Pods for testing
   end
 
