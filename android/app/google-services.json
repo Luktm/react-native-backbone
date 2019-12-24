@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1081714649122",
+    "firebase_url": "https://reacttest03.firebaseio.com",
+    "project_id": "reacttest03",
+    "storage_bucket": "reacttest03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081714649122:android:3c96920e6975920268427b",
+        "android_client_info": {
+          "package_name": "com.mobileinspectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081714649122-p5ld5qvf4ieh2a5kbvq8kd4egtoko0j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileinspectionapp",
+            "certificate_hash": "8f0d36b78c1da3b2ea7f58c7048cb690f2c54731"
+          }
+        },
+        {
+          "client_id": "1081714649122-aorijv5bnahlb3ioi3jr41gi9sn3hmlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA5cyx1uMbTbmuGEqJ0MNDhBoBLplBFc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081714649122-aorijv5bnahlb3ioi3jr41gi9sn3hmlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
